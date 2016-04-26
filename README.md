@@ -14,4 +14,5 @@ Then:
 
 3. PyUSB:
   * Download the zip from here: http://walac.github.io/pyusb/
-  * Unzip to a folder then follow these installation instructions: https://github.com/walac/pyusb#installing-pyusb-on-windows
+  * Unzip to a folder then follow these installation instructions:
+    * https://github.com/walac/pyusb#installing-pyusb-on-windows
