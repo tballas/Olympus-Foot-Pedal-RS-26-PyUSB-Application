@@ -4,9 +4,11 @@ PyUSB Python code to read buttons from Olympus Foot Pedal RS-26 USB device, on W
 This has been tested on Windows 10 64
 
 Requirements:
+
 1. Install libusbK: https://sourceforge.net/projects/libusbk/
 
 Then:
+
 2. You must setup a driver with: http://zadig.akeo.ie/
 	Make sure the device you are setting up has the "USB ID" 07B4 0202 and you select "libusbK" for the driver
 
